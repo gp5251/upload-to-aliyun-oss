@@ -1,5 +1,5 @@
 {
-  "name": "aliyun-oss-uploader",
+  "name": "upload-to-aliyun-oss",
   "version": "1.0.0",
   "author": "paul",
   "description": "upload assets to aliyun oss",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gp5251/aliyun-oss-uploader.git"
+    "url": "https://github.com/gp5251/upload-to-aliyun-oss.git"
   },
   "license": "MIT",
-  "homepage": "https://github.com/gp5251/aliyun-oss-uploader",
+  "homepage": "https://github.com/gp5251/upload-to-aliyun-oss",
   "keywords": [
     "aliyun-oss",
     "aliyun",

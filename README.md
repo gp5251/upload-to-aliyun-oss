@@ -1,10 +1,10 @@
-# aliyun-oss-uploader
+# upload-to-aliyun-oss
 上传静态资源到阿里云oss。
 
 Install
 ------------------------
 ```shell
-$ npm i aliyun-oss-uploader -D
+$ npm i upload-to-aliyun-oss -D
 ```
 
 Options
@@ -37,7 +37,7 @@ Example
 ------------------------
 
 ```javascript
-const uploader = require('aliyun-oss-uploader');
+const uploader = require('upload-to-aliyun-oss');
 
 uploader({
     from: ['./build/**', '!./build/**/*.html'],
