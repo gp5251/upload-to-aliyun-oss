@@ -1,0 +1,36 @@
+{
+  "name": "aliyun-oss-uploader",
+  "version": "1.0.0",
+  "author": "paul",
+  "description": "upload assets to aliyun oss",
+  "main": "index.js",
+  "exports": {
+    ".": {
+      "require": "./index.js",
+      "import": "./index.mjs"
+    },
+    "./": "./"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gp5251/aliyun-oss-uploader.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/gp5251/aliyun-oss-uploader",
+  "keywords": [
+    "aliyun-oss",
+    "aliyun",
+    "oss",
+    "plugin",
+    "assets"
+  ],
+  "dependencies": {
+    "webpack-aliyun-oss": "^0.3.6"
+  },
+  "engines": {
+    "node": ">= 12"
+  }
+}
