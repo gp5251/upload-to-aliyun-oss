@@ -1,6 +1,6 @@
 {
   "name": "upload-to-aliyun-oss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "paul",
   "description": "upload assets to aliyun oss",
   "main": "index.js",
@@ -28,7 +28,7 @@
     "assets"
   ],
   "dependencies": {
-    "webpack-aliyun-oss": "^0.3.6"
+    "webpack-aliyun-oss": "^0.3.9"
   },
   "engines": {
     "node": ">= 12"
